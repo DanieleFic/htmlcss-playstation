@@ -19,8 +19,8 @@
 }
 
 .ms_jumbo{
-    height: 800px;
-    min-height: 800px;
+    height: 820px;
+    min-height: 820px;
     background-image: url(/img/jumbo-bg.png);
     background-size: cover;
     background-position: center;
@@ -34,12 +34,8 @@
 }
 
 
-.ms_jumbocontent img{
-    width: 100%;
-}
-
 .box_ps_50{
-    width: 70%;
+    width: 300px;
 }
 
 .box{
@@ -118,4 +114,24 @@
 .row ul li {
     list-style: none;
     padding: 3px;
+}
+
+.ms_btn_orange{
+    background-color: orangered;
+    color: white;
+}
+
+.ms_btn_orange:hover{
+    border: 2px solid black;
+    transition: 1s;
+}
+
+.ms_btn_blue:hover{
+    border: 2px solid gray;
+    transition: 1s;
+}
+
+.ms_btn_gray:hover{
+    border: 2px solid blue;
+    transition: 1s;
 }
