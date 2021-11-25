@@ -25,19 +25,34 @@
     background-size: cover;
     background-position: center;
 }
+.ms_jumbo2{
+    height: 800px;
+    min-height: 800px;
+    background-image: url(/img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
 
 .ms_jumbocontent img{
-    width: 30%;
+    width: 100%;
 }
 
-.ms_jumbocontent{
-    display: inline-block;
-    width: 50%;
-}
 
 .box{
     width: 100%;
     border-radius: 5%;
+}
+.box_ps{
+    width: 100%;
+    border-radius: 5%;
+}
+.box_ps2{
+    width: 85%;
+    opacity: 0.7;
+}
+.box_ps2:hover{
+    opacity: 1;
 }
 
 .ms_text-gray{
@@ -47,3 +62,14 @@
     color: 	#0072ce;
 }
 
+.dropdown-menu{
+    position: fixed;
+    width: 100%;
+}
+.ms_borderbottom{
+    border-bottom: 3px solid #0072ce;
+}
+
+.ms_bg_gray{
+    background-color:#1f1f1f;
+}
