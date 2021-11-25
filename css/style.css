@@ -17,3 +17,32 @@
 .ms_fontsizeicon{
     font-size: 20px;
 }
+
+.ms_jumbo{
+    min-height: 800px;
+    background-image: url(/img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.ms_jumbocontent img{
+    width: 30%;
+}
+
+.ms_jumbocontent{
+    display: inline-block;
+    width: 50%;
+}
+
+.box{
+    width: 100%;
+    border-radius: 5%;
+}
+
+.ms_text-gray{
+    color: gray;
+}
+.ms_text-blue{
+    color: 	#0072ce;
+}
+
