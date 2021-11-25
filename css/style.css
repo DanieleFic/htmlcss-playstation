@@ -102,3 +102,20 @@
 .box_ps_20{
     width: 100%;
 }
+
+.ms_jumbo50{
+    width: 50%;
+}
+
+.ms_bg_blue{
+    background-color: #00439C;
+}
+
+.box_ps3{
+    width: 13%;
+}
+
+.row ul li {
+    list-style: none;
+    padding: 3px;
+}
