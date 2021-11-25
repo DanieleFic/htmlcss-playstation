@@ -38,6 +38,9 @@
     width: 100%;
 }
 
+.box_ps_50{
+    width: 70%;
+}
 
 .box{
     width: 100%;
@@ -81,4 +84,13 @@
 .ms_button_gray{
     background-color:#ACB5B4;
     color: #0072ce;
+}
+
+.ms_button_white{
+    background-color: white;
+    color: black;
+}
+
+.ms_background_blue{
+    background-color: #161C3B;
 }
