@@ -43,6 +43,15 @@ a:hover{
     background-position: center;
 }
 
+.box img:hover{
+    transition: 1s;
+    margin-bottom: 2px;
+}
+
+nav li{
+    width: 30%;
+    float: left;
+}
 
 .box_ps_50{
     width: 300px;
@@ -51,10 +60,13 @@ a:hover{
 .box{
     width: 100%;
     border-radius: 5%;
+    transition: 0.5s; 
 }
 .box_ps{
     width: 100%;
     border-radius: 5%;
+    
+    
 }
 .box_ps2{
     width: 85%;
@@ -126,6 +138,10 @@ a:hover{
     padding: 3px;
 }
 
+.box:hover {
+    transform: translateY(-10px);
+  }
+
 .ms_btn_orange{
     background-color: orangered;
     color: white;
@@ -158,3 +174,10 @@ a:hover{
     box-shadow: inset 0 0 0 2px #fff;
     transition: 0.3s ease-in-out;
 }
+
+.hb_games-box {
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all .3s;
+  }
+  
