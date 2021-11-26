@@ -121,6 +121,9 @@ a:hover{
     list-style: none;
     padding: 3px;
 }
+.row ul{
+    padding: 0;
+}
 
 
 /*  JUMBO CON BACKGROUND E BOX   */
@@ -183,3 +186,4 @@ a:hover{
     box-shadow: inset 0 0 0 2px blue;
     transition: 0.3s ease-in-out;
 }
+
