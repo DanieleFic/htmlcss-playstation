@@ -48,6 +48,9 @@ a:hover{
     margin-bottom: 2px;
 }
 
+.ms_top0{
+    margin-top: 0!important;
+}
 
 .box_ps_50{
     width: 300px;
