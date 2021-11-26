@@ -101,7 +101,7 @@ a{
     color: white;
 }
 a:hover{
-    color: white;
+    color: #0072ce;
 }
 
 .dropdown-toggle ul li {
@@ -165,7 +165,7 @@ a:hover{
 }
 .ms_btn_blue:hover{
     color: #fff;
-    box-shadow: inset 0 0 0 2px gray;
+    box-shadow: inset 0 0 0 2px #fff;
     transition: 0.3s ease-in-out;
 }
 .ms_btn_gray:hover{
