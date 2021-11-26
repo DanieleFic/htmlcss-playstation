@@ -14,9 +14,14 @@
     width: 0.5rem;
 }
 
-.ms_dropdown:active{
+.nav-link:hover .ms_dropdown{
     display: none;
 }
+
+.nav-link:hover .ms_dropdown_hover{
+    display: inline-block!important;
+}
+
 .ms_top0{
     margin-top: 0!important;
 }
