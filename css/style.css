@@ -18,6 +18,7 @@
 }
 .nav-link:hover .ms_dropdown_hover{
     display: inline-block!important;
+    transform: rotate(180deg);
 }
 .ms_top0{
     margin-top: 0!important;
