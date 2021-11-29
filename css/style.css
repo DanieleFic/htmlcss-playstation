@@ -34,6 +34,11 @@
     box-shadow: inset 1px 1px 5px 5px rgba(0, 0, 0, 0.3);
 }
 
+
+.ms_width{
+    width: 50%;
+}
+
 /* BOX IMG*/
 .box_ps_50{
     width: 300px;
@@ -73,7 +78,7 @@
     width: 50%;
 }
 .box_ps3{
-    width: 13%;
+    width: 20%;
 }
 .ms_borderbottom{
     border-bottom: 3px solid #0072ce;
