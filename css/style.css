@@ -141,14 +141,14 @@ a:hover{
 .ms_jumbo{
     height: 820px;
     min-height: 820px;
-    background-image: url(/img/jumbo-bg.png);
+    background-image: url(img/jumbo-bg.png);
     background-size: cover;
     background-position: center;
 }
 .ms_jumbo2{
     height: 800px;
     min-height: 800px;
-    background-image: url(/img/it-takes-two-hero-banner-desktop.jpg);
+    background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
     background-size: cover;
     background-position: center;
 }
